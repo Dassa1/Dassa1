@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dassa1&stats_format=bytes)
+
 <!--
 **Dassa1/Dassa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
