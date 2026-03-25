@@ -1,9 +1,9 @@
-## Hi there 👋
+## Olá, Me chamo Hadassa Juliane
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dassa1&stats_format=bytes) 
 
-🌱 I’m currently learning Banco de Dados
-😄 Pronouns: She/Her
+🌱 Estudando Banco de Dados
+😄 Pronomes: She/Her
 
 <!--
 **Dassa1/Dassa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
