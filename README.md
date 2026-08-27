@@ -1,16 +1,15 @@
-## Hi there 👋
+## ❄️ About Me
 
-<!--
-**Dassa1/Dassa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="400" height="225" alt="flocos de neve" src="https://github.com/user-attachments/assets/19080442-be72-454b-bf4b-82d3f83f54a0" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏰 Resident of Arencife
+💻 Learning Java, C, HTML & CSS
+🧊 Currently exploring POO
+🎮 Building small projects
+📚 Always learning something new
+
+## 🛠️ Technologies
+
+Java • C • HTML • CSS • Git • GitHub
+
