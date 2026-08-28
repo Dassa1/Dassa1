@@ -1,0 +1,167 @@
+<svg width="1200" height="350" viewBox="0 0 1200 350"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#bdeeff"/>
+      <stop offset="30%" stop-color="#5ba8d1"/>
+      <stop offset="70%" stop-color="#173f61"/>
+      <stop offset="100%" stop-color="#071a2b"/>
+    </radialGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="3" stdDeviation="5"
+                    flood-color="#000000"
+                    flood-opacity="0.5"/>
+    </filter>
+
+    <pattern id="snow" width="120" height="120"
+             patternUnits="userSpaceOnUse">
+
+      <circle cx="15" cy="20" r="2" fill="white" opacity=".7"/>
+      <circle cx="70" cy="60" r="1.5" fill="white" opacity=".6"/>
+      <circle cx="105" cy="100" r="2" fill="white" opacity=".8"/>
+      <circle cx="35" cy="90" r="1" fill="white" opacity=".7"/>
+      <circle cx="100" cy="25" r="1.5" fill="white" opacity=".5"/>
+    </pattern>
+
+    <style>
+      .snowfall {
+        animation: snowfall 12s linear infinite;
+      }
+
+      .flake {
+        animation: float 5s ease-in-out infinite;
+        transform-box: fill-box;
+        transform-origin: center;
+      }
+
+      .flake2 {
+        animation-delay: 1s;
+      }
+
+      .flake3 {
+        animation-delay: 2s;
+      }
+
+      .flake4 {
+        animation-delay: 3s;
+      }
+
+      @keyframes snowfall {
+        from {
+          transform: translateY(-120px);
+        }
+        to {
+          transform: translateY(350px);
+        }
+      }
+
+      @keyframes float {
+        0%, 100% {
+          transform: translateY(0) rotate(0deg);
+          opacity: .4;
+        }
+
+        50% {
+          transform: translateY(-25px) rotate(180deg);
+          opacity: 1;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="350"
+        rx="20"
+        fill="url(#bg)"/>
+
+  <!-- Snow -->
+  <rect width="1200"
+        height="350"
+        fill="url(#snow)"
+        opacity=".5"
+        class="snowfall"/>
+
+  <!-- Decorative snowflakes -->
+  <g fill="white"
+     font-family="Georgia, serif"
+     font-size="30"
+     opacity=".8">
+
+    <text x="180" y="100" class="flake">❄</text>
+    <text x="950" y="220" class="flake flake2">❄</text>
+    <text x="300" y="280" class="flake flake3">❄</text>
+    <text x="840" y="80" class="flake flake4">❄</text>
+
+  </g>
+
+  <!-- Content -->
+  <g text-anchor="middle"
+     fill="white"
+     font-family="Georgia, serif"
+     filter="url(#shadow)">
+
+    <text x="600"
+          y="105"
+          font-size="14"
+          letter-spacing="6"
+          opacity=".9">
+      WELCOME
+    </text>
+
+    <text x="600"
+          y="175"
+          font-size="70"
+          font-weight="normal"
+          letter-spacing="12">
+      ARTHUR
+    </text>
+
+    <!-- Line -->
+    <rect x="550"
+          y="200"
+          width="100"
+          height="2"
+          fill="white"
+          filter="url(#glow)"/>
+
+    <text x="600"
+          y="245"
+          font-size="25"
+          letter-spacing="8"
+          fill="#e9faff">
+      DEVELOPER
+    </text>
+
+    <text x="600"
+          y="275"
+          font-family="Arial, sans-serif"
+          font-size="12"
+          letter-spacing="5"
+          opacity=".8">
+      JAVA • C • HTML • CSS
+    </text>
+
+  </g>
+
+  <!-- Border glow -->
+  <rect x="1"
+        y="1"
+        width="1198"
+        height="348"
+        rx="20"
+        fill="none"
+        stroke="#87dcff"
+        stroke-opacity=".35"
+        stroke-width="2"/>
+
+</svg>
