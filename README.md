@@ -1,13 +1,12 @@
 ## ❄️ About Me
 
-<img
-  width="400"
-  height="225"
-  alt="Banner com flocos de neve"
-  src="./banner.svg"
-/>
-
-
+<div align="center">
+  <img
+    width="100%"
+    alt="Banner com flocos de neve"
+    src="./snowflakesfrozen.svg"
+  />
+</div>
 
 🏰 Resident of Arencife
 💻 Learning Java, C, HTML & CSS
@@ -18,4 +17,3 @@
 ## 🛠️ Technologies
 
 Java • C • HTML • CSS • Git • GitHub
-
