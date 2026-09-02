@@ -16,7 +16,7 @@
 
 ## 🛠️ Technologies
 
-[![Top Langs](https://vercel.app)](https://github.com)
+[![Total de Linguagens Trabalhadas](https://vercel.app)](https://github.com)
 
 
 Java • C • HTML • CSS • Python • GitHub
