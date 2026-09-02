@@ -16,7 +16,7 @@
 
 ## 🛠️ Technologies
 
-[![Total de Linguagens Trabalhadas](https://vercel.app)](https://github.com)
+[![Total de Linguagens Trabalhadas](https://vercel.app)](https://Dassa1.github.com)
 
 
 Java • C • HTML • CSS • Python • GitHub
