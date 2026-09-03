@@ -46,9 +46,5 @@ Java • C • HTML • CSS • Python • GitHub
 A Python project that recommends movies
 based on the user's mood.
 
-### 🎨 PaletteMood
-Exploring colors, emotions and creativity
-through programming. (incoming)
-
 ### ❄️ Arendelle
 HTML & CSS experiments inspired by Frozen.
