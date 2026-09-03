@@ -1,4 +1,8 @@
-## ❄️ About Me
+## ❄️ THE ARENDELLE ARCHIVES ❄️
+
+"Some things are worth coding for."
+
+────────────────────────────────────────
 
 <div align="center">
   <img
@@ -8,7 +12,20 @@
   />
 </div>
 
-🏰 Resident of Arencife
+ 👋 Hi! I'm Hadassa
+
+Estudante de Análise e Desenvolvimento de Sistemas
+explorando o mundo da programação, design e tecnologia.
+
+❄️ Currently learning
+☕ Java
+🐍 Python
+⚙️ C
+🌐 HTML & CSS
+🗄️ Database
+🎨 UX/UI Design
+
+🏰 Resident of Recife
 💻 Learning Java, C, HTML & CSS
 🧊 Currently exploring POO
 🎮 Building small projects
@@ -20,3 +37,18 @@
 
 
 Java • C • HTML • CSS • Python • GitHub
+
+────────────────────────────────────────
+
+## 🎬 MY PROJECTS
+
+### 🎥 CineMood
+A Python project that recommends movies
+based on the user's mood.
+
+### 🎨 PaletteMood
+Exploring colors, emotions and creativity
+through programming. (incoming)
+
+### ❄️ Arendelle
+HTML & CSS experiments inspired by Frozen.
